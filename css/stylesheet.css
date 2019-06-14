@@ -1,0 +1,163 @@
+*{box-sizing: border-box;
+font-family: brush script mt;
+font-size: 20px;}
+.head{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.head a{
+    color: white;
+     text-decoration: none;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+.head a:hover{
+    color: red;
+    text-decoration: none;
+    cursor: pointer;
+}
+#icon, #iconyou{
+    color: #C4C2C2;
+    font-size: 25px;
+}
+#icon:hover{
+    color: royalblue;
+}
+#iconyou:hover{
+    color: red;
+}
+li{
+    list-style-image: none;
+    margin-left: 15px;
+    display: inline;
+    float: left;
+}
+.btn1{
+    background-color: rgba(249,80,80,0.4);
+    color: white;
+    border: 2px solid rgba(249,80,80,0.4);
+    width: 250px;
+    font-family: sans-serif;
+    height: 50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.btn2{
+    background-color: rgba(245,241,241,0.4);
+    color: white;
+    border: 2px solid rgba(245,241,241,0.4);
+     width: 250px;
+    font-family: sans-serif;
+    height: 50px;
+     font-size: 18px;
+    font-weight: bold;
+}
+.btn1:hover{
+    background-color: red;
+}
+.btn2:hover{
+    background-color: white;
+    color: red;
+}
+.box1{
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.box1 h2{
+    color: orangered;
+}
+.box1 p{
+    padding-top: 20px;
+}
+.box2, .box2 h2{
+    text-align: center;
+    color: white;
+  
+}
+.col1, .col2{  padding-top: 50px;
+    padding-bottom: 50px;
+ text-align: center;
+}
+.box3{
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+   
+}
+
+
+
+sup{
+    background-color: #EC1C1C;
+}
+.box4{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.box5{
+    padding-top: 50px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.box5 #img{
+    width: 200px;
+    padding-left: 20px;
+    height: 500px;
+}
+.box5 table{
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 20px;
+}
+.box5 td{
+    text-align: left;
+    padding-left: 20px;
+
+}
+.box5 label, h2{
+    color: orangered;
+}
+.box5 input{
+    width: 200px;
+}
+.box5 button{
+    background-color: orangered;
+    border: 2px solid orangered;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 20px;
+    
+}
+.box5 button:hover{
+    background-color: red;
+    border: 2px solid red;
+}
+.foot{
+    color: #a0a0a0;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+#wh{
+    color: white;
+}
+#gr{
+    font-size: 18px;
+    padding: 10px;
+    transform: scale(1);
+    
+}
+#gr:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    color: white;
+    
+}
+.foot .cola{
+    padding-top: 50px;
+}
